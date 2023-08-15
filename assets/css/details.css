@@ -1,0 +1,117 @@
+img {
+    display: flex;
+    margin: auto;
+    height: 12rem;
+}
+
+h1 {
+    text-transform: capitalize;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    object-position: center;
+}
+
+ul li {
+    text-align: center;
+    object-position: center;
+}
+
+table tbody tr:nth-child(odd) td {
+    background-color: #a5a5a5;
+}
+
+table tbody tr:nth-child(even) td {
+    background-color: #b9b9b9;
+}
+
+table thead th {
+    text-align: center;
+    background-color: #e6924d;
+    color: #ffffff;
+}
+
+#Table1{
+    padding-left: 6rem;
+}
+
+#Table2{
+    padding-right: 15rem;
+}
+
+#Table3{
+    padding: 0rem;
+    margin: auto;
+    object-position: center;
+    padding-right: 0rem;
+}
+
+table tbody tr {
+    text-align: center;
+}
+
+table tr td {
+    text-transform: capitalize;
+    text-align: center;
+    color: #ffffff;
+}
+
+.normal {
+    background-color:#a6a877;
+}
+.grass {
+    background-color:#77c850;
+}
+.fire {
+    background-color:#ee7f30;
+}
+.water {
+    background-color:#678fee;
+}
+.electric {
+    background-color:#f7cf2e;
+}
+.ice {
+    background-color:#98d5d7;
+}
+.ground {
+    background-color:#dfbf69;
+}
+.flying {
+    background-color:#a98ff0;
+}
+.poison {
+    background-color:#a040a0;
+}
+.fighting {
+    background-color:#bf3029;
+}
+.psychic {
+    background-color:#f65687;
+}
+.dark {
+    background-color:#725847;
+}
+.rock {
+    background-color:#b8a137;
+}
+.bug {
+    background-color:#a8b720;
+}
+.ghost {
+    background-color:#6e5896;
+}
+.steel {
+    background-color:#b9b7cf;
+}
+.dragon {
+    background-color:#6f38f6;
+}
+.fairy {
+    background-color:#f9aec7;
+}
